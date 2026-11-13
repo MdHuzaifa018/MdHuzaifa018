@@ -1,32 +1,50 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=220&section=header&text=HUZAIF%20SHEIKH&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20The%20Future&descAlignY=58&descSize=16" width="100%" />
+# Hey, I'm Huzaif Sheikh 👋
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;AI+%26+Automation+Explorer;Turning+Ideas+Into+Digital+Products" />
+### `Full Stack Developer` · `MERN Stack Developer` · `AI Explorer`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Digital+Experiences;Turning+Ideas+Into+Reality;Exploring+AI+%26+Automation;Learning+Today%2C+Building+Tomorrow" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://portfolio-huzaif-sheikh.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=MdHuzaifa018&label=PROFILE+VIEWS&color=2563eb&style=for-the-badge" />
-</p>
+<a href="https://github.com/MdHuzaifa018">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+</a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-Hey there! I'm **Md Huzaif Sheikh**, a developer passionate about building modern, scalable and impactful digital products.
+```javascript
+const huzaif = {
+  name: "Md Huzaif Sheikh",
+  role: "Full Stack Developer",
+  education: "BCA (2024–2027)",
+  location: "Bihar, India",
+  interests: [
+    "Full Stack Development",
+    "AI & Automation",
+    "Cloud & DevOps",
+    "Building Products"
+  ],
+  currentlyLearning: ["AWS", "Docker", "System Design"],
+  goal: "Build products that solve real-world problems",
+  motto: "Learn. Build. Break. Improve. Repeat."
+};
+```
 
-- 🎓 BCA Student (2024–2027)
-- 💻 Focused on Full Stack Web Development.
-- 🚀 Building real-world applications using the MERN stack.
-- 🤖 Exploring AI, automation and emerging technologies.
-- 🌱 Currently improving my backend, cloud and DevOps skills.
-- 🎯 Goal: Build products that solve real-world problems.
-
-> "Code. Create. Innovate. Repeat."
+- 💻 Passionate about building modern web applications.
+- 🌱 Improving my backend, cloud and DevOps skills.
+- 🤖 Exploring AI-powered applications and automation.
+- 🚀 Building projects and experimenting with new technologies.
+- 🎯 Focused on becoming a better software engineer every day.
 
 ---
 
@@ -35,28 +53,29 @@ Hey there! I'm **Md Huzaif Sheikh**, a developer passionate about building moder
 <div align="center">
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,redux" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
 
 ### Backend & Database
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
 
-### Tools & Technologies
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,figma,aws,docker" />
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,figma" />
+
+### Exploring
+<img src="https://skillicons.dev/icons?i=aws,docker,linux" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Featured Projects
 
-| Project | Description | Technology |
-|---|---|---|
-| Attendance Management | College attendance management platform | MERN |
-| VibeFest | Event registration and seat booking platform | Full Stack |
-| TechUgrow | Digital growth and technology agency | Next.js |
-| Code Crafter | Learning and educational platform | Web Development |
-
-Explore more projects on my GitHub repositories.
+| Project | Description |
+|---|---|
+| [Attendance Management](https://github.com/MdHuzaifa018/Attendance-Management) | MERN-based attendance management system |
+| [VibeFest](https://vibefest.vercel.app) | Event registration and seat booking platform |
+| [TechUgrow](https://techugrow.vercel.app/services) | Digital growth and technology services |
+| [Code Crafter](https://code-crafter-web.vercel.app/) | Learning resources and coding platform |
 
 ---
 
@@ -64,21 +83,11 @@ Explore more projects on my GitHub repositories.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MdHuzaifa018&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MdHuzaifa018&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdHuzaifa018&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MdHuzaifa018&theme=tokyonight&hide_border=true" />
 
-<img width="90%" src="https://streak-stats.demolab.com?user=MdHuzaifa018&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MdHuzaifa018&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="95%" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdHuzaifa018&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -88,26 +97,24 @@ Explore more projects on my GitHub repositories.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MdHuzaifa018/MdHuzaifa018/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/MdHuzaifa018/MdHuzaifa018/output/snake.svg" alt="Contribution Snake Animation" />
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
-
-<a href="https://portfolio-huzaif-sheikh.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
-
+<a href="https://portfolio-huzaif-sheikh.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Explore-purple?style=for-the-badge&logo=vercel" />
+</a>
 <a href="https://github.com/MdHuzaifa018">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
 </a>
 
 </div>
@@ -116,10 +123,10 @@ Explore more projects on my GitHub repositories.
 
 <div align="center">
 
-### 💡 Building Today. Innovating Tomorrow.
+### 💡 "The future belongs to those who build it."
 
-**Thanks for visiting my profile! Let's build something amazing.**
+**Thanks for visiting my profile!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:0F172A&height=110&section=footer" width="100%" />
+<img src="https://komarev.com/ghpvc/?username=MdHuzaifa018&label=Profile%20Views&color=38BDF8&style=flat" />
 
 </div>
